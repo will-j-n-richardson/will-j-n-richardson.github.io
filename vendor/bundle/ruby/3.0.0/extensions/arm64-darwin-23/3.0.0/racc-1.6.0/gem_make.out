@@ -1,0 +1,21 @@
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.0/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250321-4124-et848s sitelibdir\=./.gem.20250321-4124-et848s clean
+
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250321-4124-et848s sitelibdir\=./.gem.20250321-4124-et848s
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250321-4124-et848s sitelibdir\=./.gem.20250321-4124-et848s install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250321-4124-et848s/racc
+
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250321-4124-et848s sitelibdir\=./.gem.20250321-4124-et848s clean

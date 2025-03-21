@@ -1,0 +1,20 @@
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby@3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250321-4124-m3nbke sitelibdir\=./.gem.20250321-4124-m3nbke clean
+
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250321-4124-m3nbke sitelibdir\=./.gem.20250321-4124-m3nbke
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250321-4124-m3nbke sitelibdir\=./.gem.20250321-4124-m3nbke install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20250321-4124-m3nbke
+
+current directory: /Users/willrichardson/Desktop/will-j-n-richardson.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250321-4124-m3nbke sitelibdir\=./.gem.20250321-4124-m3nbke clean
