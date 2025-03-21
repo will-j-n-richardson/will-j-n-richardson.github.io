@@ -4,7 +4,7 @@
 
 * `title`: This will be displayed as the website's name in your browser tab.
 * `description`: This will be meta HTML tag content. This can be ignored.
-* `baseurl`: The subpath of your site
+* `baseurl`: "" The subpath of your site
   * set this to **""**, if you renamed the repository to `<user>.github.io`
 
 ## Landing Page
